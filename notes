@@ -1,0 +1,35 @@
+// Intro -L1
+two ways to declare a variable : var and let
+const variable declare krke nhin nhin
+
+const name='yashika'; 
+in how many ways you can declare a variable or assign a value - implicit and explicit
+in js we use implicit
+
+
+explicit 
+const name: String ='yashika';
+value of any other data  type except the specified will not be accepted
+variable is initialized using the data type
+
+typescript becomes superset of javascript and that is why javascript is tightly scripted and typescript is 
+loosely scripted
+problems in javascript are solved in typescript.
+
+typescript code is transpiled into javascript and that also older version of javascript
+
+Diff between BOM and DOM  ??
+      They're just different objects you're dealing with:
+
+  The DOM is the Document Object Model, which deals with the document, 
+the HTML elements themselves, e.g. document and all traversal you would do in it, events, etc.
+    The BOM is the Browser Object Model, which deals with browser components aside from the document,
+ like history, location, navigator and screen (as well as some others that vary by browser).
+
+DOM comes under BOM.
+BOM cannot directly interfere with the webpage.
+and interactions within the webpage is done with DOM.
+
+steps to install typescript in vs
+
+
